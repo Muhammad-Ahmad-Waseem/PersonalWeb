@@ -406,8 +406,8 @@ export const contact: ContactSection = {
 export const socialLinks: Social[] = [
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/Muhammad-Ahmad-Waseem'},
   {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/22785121/ahmad-waseem'},
-  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/engr-muhammad-ahmad-waseem/'},
-  {label: 'Facebook', Icon: FacebookIcon, href: 'https://www.facebook.com/Ahmadwaseem.712.648/'},
+  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/engr-muhammad-ahmad-waseem/' },
+  {label: 'Facebook', Icon: FacebookIcon, href: 'https://www.facebook.com/Ahmadwaseem.712.648/' },
   {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/muhammad_ahmad_waseem/'},
   {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/ahmadwaseem648'},
 ];
