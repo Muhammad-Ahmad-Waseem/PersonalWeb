@@ -3,7 +3,7 @@ import {FC, memo} from 'react';
 import {PublicationItem} from '../../../data/dataDef';
 
 const PublicationItem: FC<{ item: PublicationItem }> = memo(({item}) => {
-    const { title, coauthorsa, mainauthor, coauthorsb, venue, paperlink} = item;
+    const {title, coauthorsa, mainauthor, coauthorsb, venue, paperlink} = item;
   return (
     <div className="flex flex-col pb-8 text-center last:pb-0 md:text-left">
       <div className="flex flex-col pb-4">
